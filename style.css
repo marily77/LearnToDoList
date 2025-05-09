@@ -1,0 +1,34 @@
+.done {
+  text-decoration: line-through;
+}
+
+body {
+  background-color: rgb(124, 124, 181);
+  font-family: Poppins;
+}
+
+.kkoos {
+
+  padding:40px;
+
+
+
+}
+
+button {
+  background-color: pink;
+  border-radius: 8px;
+  font-family: Poppins;
+  
+}
+
+input {
+  background-color: rgb(227, 227, 228);
+  font-family: Poppins;
+  border-radius: 8px;
+
+}
+
+#enter {
+  padding: 1px 20px;
+}
